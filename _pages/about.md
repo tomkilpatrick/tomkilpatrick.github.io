@@ -14,8 +14,8 @@ I received a Ph.D. in physical oceanography from the [University of Hawaii](http
 
 My research aims to better understand regional-scale atmosphere-ocean interactions, which have a strong influence on the climate variability that is felt by communities, including the impacts of climate change. At Scripps I worked with Prof. [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/), a world leader in atmosphere-ocean interactions and their impact on climate. We were funded by the [NASA physical oceanography program](https://science.nasa.gov/earth-science/oceanography/physical-ocean) and I worked heavily with satellite observations of oceanic variables such as surface winds, sea surface temperature, sea level, and ocean color; and atmospheric variables such as surface winds (over the ocean), rainfall, and clouds.
 
-I utilize computer simulations with models such as the [Weather Research and Forecasting (WRF)](https://github.com/wrf-model) model and [Regional Ocean Modeling System (ROMS)](https://www.myroms.org/), as well as utilizing output from gridded reanalyses such as [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) and [NCEP](https://climatedataguide.ucar.edu/climate-data/ncep-reanalysis-r2). I have found that combining satellite observations with numerical modeling studies is a powerful approach for developing robust explanations about physical processes in our environment.
- 
+I run computer simulations with the [Weather Research and Forecasting (WRF)](https://github.com/wrf-model) model and [Regional Ocean Modeling System (ROMS)](https://www.myroms.org/), and utilize gridded reanalyses such as [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) and [NCEP](https://climatedataguide.ucar.edu/climate-data/ncep-reanalysis-r2). I have found that combining satellite observations with numerical modeling is a powerful approach for developing robust explanations about processes in our environment. 
+
 Specific problems I worked on at Scripps include:
 * orographic wind forcing of ocean circulation and upwelling in the Southern California Bight
 * coupling between surface winds and rainfall
