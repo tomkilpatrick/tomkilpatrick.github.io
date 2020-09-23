@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Thomas Kilpatrick, Ph.D."
-  avatar           : "tom_lacma_crop3.png" #"profile.png"
+  avatar           : "profile.png"
   bio              : "Oceanographer, Bureau of Ocean Energy Management, U.S. Dept. of Interior"
   location         : "Los Angeles"
   employer         :
