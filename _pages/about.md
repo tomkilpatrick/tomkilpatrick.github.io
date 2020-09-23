@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I recently started working as an oceanographer at the [Bureau of Ocean Energy Management (BOEM)](https://www.boem.gov), which is part of the [U.S. Department of the Interior](https://www.doi.gov). Prior to that I was a postdoc and project scientist at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu), U.C. San Diego, where I studied atmosphere-ocean interactions using a combination of observations (satellite and in situ) and computer simulations. I received a Ph.D. in physical oceanography from the [University of Hawaii](http://www.soest.hawaii.edu/oceanography/index.html) in 2013, working on air-sea interaction. 
+Hi! I recently started working as an oceanographer at the [Bureau of Ocean Energy Management (BOEM)](https://www.boem.gov) headquarters in Virginia, part of the [U.S. Department of the Interior](https://www.doi.gov). Prior to that I was a postdoc and project scientist at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu), U.C. San Diego, where I studied atmosphere-ocean interactions using a combination of observations (satellite and in situ) and computer simulations. I received a Ph.D. in physical oceanography from the [University of Hawaii](http://www.soest.hawaii.edu/oceanography/index.html) in 2013, working on air-sea interaction. 
 
 My research aims to better understand regional-scale atmosphere-ocean interactions, which have a strong influence on the climate variability that is felt by communities, including the impacts of climate change. At Scripps I worked with Professor [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/), a world leader in atmosphere-ocean interactions and their impact on climate. We were funded by the [NASA physical oceanography program](https://science.nasa.gov/earth-science/oceanography/physical-ocean) and I worked heavily with satellite observations of oceanic variables such as surface winds, sea surface temperature, sea level, and ocean color; and atmospheric variables such as surface winds (over the ocean), rainfall, and clouds.
 
@@ -21,8 +21,9 @@ Specific problems I worked on at Scripps include:
 
 I am interested in the application of machine learning and artificial intelligence methods in earth science, and have worked with [Will Chapman](https://scholar.google.com/citations?user=C1ox2CEAAAAJ) at Scripps to utilize convolutional neural networks (deep learning) for the improvement of satellite wind retrievals.
 
+
 AMS Air-Sea Interaction Committee
-======
+------  
 Since 2017, I have served on the American Meteorological Society Air-Sea Interaction Committee. As part of this responsibility, I am helping organize the Air-Sea Interaction Conference at the upcoming [AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/), which will be held in virtual format January 10-14, 2021. Hope to see you there!
 
 
