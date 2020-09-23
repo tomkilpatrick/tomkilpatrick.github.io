@@ -21,8 +21,9 @@ Specific problems I worked on at Scripps include:
 
 I am interested in the application of machine learning and artificial intelligence methods in earth science, and have worked with [Will Chapman](https://scholar.google.com/citations?user=C1ox2CEAAAAJ) at Scripps to utilize convolutional neural networks (deep learning) for the improvement of satellite wind retrievals.
 
-**AMS Air-Sea Interaction Committee**
-Since 2017, I have served on the American Meteorological Society Air-Sea Interaction Committee, which organizes the biennial Air-Sea Interaction Conference, which will be held in virtual format at the 2021 AMS Annual Meeting. Hope to see you there! 
+AMS Air-Sea Interaction Committee
+======
+Since 2017, I have served on the American Meteorological Society Air-Sea Interaction Committee. As part of this responsibility, I am helping organize the Air-Sea Interaction Conference at the upcoming [AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/), which will be held in virtual format January 10-14, 2021. Hope to see you there!
 
 
 
