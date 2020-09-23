@@ -1,12 +1,29 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hi! I recently started working as an oceanographer at the [Bureau of Ocean Energy Management](https://www.boem.gov), which is part of the U.S. Department of the Interior. Prior to that I was a postdoc and project scientist at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu), U.C. San Diego, where I studied atmosphere-ocean interactions using a combination of satellite and in situ observations; and computer simulations. I received a Ph.D. in physical oceanography from the University of Hawaii in 2013, working on air-sea interaction around mesoscale SST fronts.
+
+My research aims to better understand regional-scale atmosphere-ocean interactions, which have a strong influence on the climate variability that is felt by communities, including the impacts of climate change. At Scripps I worked with Professor [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/), a world leader in atmosphere-ocean interactions and their impact on climate. We were funded by the NASA physical oceanograph program and I worked heavily with satellite observations of oceanic variables such as surface winds, sea surface temperature, sea level, and ocean color; and atmospheric variables such as surface winds (over the ocean), rainfall, and clouds.
+
+I utilize computer simulations with models such as the Weather Research and Forecasting (WRF) model and Regional Ocean Modeling System (ROMS), as well as utilizing output from gridded reanalyses such as ERA5 and NCEP. I have found that combining satellite observations with numerical modeling studies is a powerful approach for developing robust explanations.
+ 
+Specific problems I worked on at Scripps include:
+* orographic wind forcing of ocean circulation and upwelling in the Southern California Bight
+* coupling between surface winds and rainfall
+* satellite wind retrieval errors near coastal mountains
+
+I am interested in the application of machine learning and artificial intelligence methods in earth science, and have worked with [Will Chapman](https://scholar.google.com/citations?user=C1ox2CEAAAAJ) at Scripps to utilize convolutional neural networks (deep learning) for the improvement of satellite wind retrievals.
+
+Since 2017, I have served on the American Meteorological Society Air-Sea Interaction Committee, which organizes the biennial Air-Sea Interaction Conference, which will be held in virtual format at the 2021 AMS Annual Meeting. Hope to see you there! 
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
