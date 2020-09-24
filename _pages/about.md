@@ -19,7 +19,7 @@ Specific problems I worked on at Scripps include:
 * coupling between surface winds and rainfall
 * satellite wind retrieval errors near coastal mountains
 
-Check out my [publications](publications/) for more information.
+Check out my [publications](publications/) and [research highlights](research/) for more information.
 
 I am interested in the application of machine learning and artificial intelligence methods in earth science, and have worked with [Will Chapman](https://scholar.google.com/citations?user=C1ox2CEAAAAJ) at Scripps to utilize convolutional neural networks (deep learning) for the improvement of satellite wind retrievals.
 
