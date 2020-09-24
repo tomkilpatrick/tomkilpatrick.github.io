@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I recently started working as an oceanographer at the [Bureau of Ocean Energy Management (BOEM)](https://www.boem.gov) headquarters in Virginia, part of the [U.S. Department of the Interior](https://www.doi.gov). Prior to that I was a postdoc and project scientist at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu), U.C. San Diego.
 
-My research aims to better understand regional-scale atmosphere-ocean interactions, which have a strong influence on the climate variability that is felt by communities, including the impacts of climate change. At Scripps I worked with Prof. [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/), a world leader in atmosphere-ocean interactions and their impact on climate. We were funded by the [NASA physical oceanography program](https://science.nasa.gov/earth-science/oceanography/physical-ocean) and I worked heavily with satellite observations of oceanic variables such as [sea surface temperature](http://www.remss.com/measurements/sea-surface-temperature/), [sea level](https://sealevel.jpl.nasa.gov/missions/), and [ocean color](https://oceancolor.gsfc.nasa.gov/); and atmospheric variables such as [surface winds](https://winds.jpl.nasa.gov/missions/quikscat/), rainfall, and clouds. We supplemented satellite data where appropriate with in situ observations from buoys, ships, and gliders.
+At Scripps I studied regional-scale atmosphere-ocean interactions, which have a strong influence on the climate variability that is felt by communities, including the impacts of climate change. I was advised by Prof. [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/), with funding from the [NASA physical oceanography program](https://science.nasa.gov/earth-science/oceanography/physical-ocean). I worked heavily with satellite observations of oceanic variables such as [sea surface temperature](http://www.remss.com/measurements/sea-surface-temperature/), [sea level](https://sealevel.jpl.nasa.gov/missions/), and [ocean color](https://oceancolor.gsfc.nasa.gov/); and atmospheric variables such as [surface winds](https://winds.jpl.nasa.gov/missions/quikscat/), rainfall, and clouds. We supplemented satellite data where appropriate with in situ observations from buoys, ships, and gliders.
 
 I run computer simulations with the [Weather Research and Forecasting (WRF)](https://github.com/wrf-model) model and [Regional Ocean Modeling System (ROMS)](https://www.myroms.org/), and utilize gridded reanalyses such as [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) and [NCEP](https://climatedataguide.ucar.edu/climate-data/ncep-reanalysis-r2). I have found that combining satellite observations with numerical modeling is a powerful approach for developing robust explanations about processes in our environment. 
 
@@ -18,6 +18,8 @@ Specific problems I worked on at Scripps include:
 * orographic wind forcing of ocean circulation and upwelling in the Southern California Bight
 * coupling between surface winds and rainfall
 * satellite wind retrieval errors near coastal mountains
+
+Check out my [publications](publications/) for more information.
 
 I am interested in the application of machine learning and artificial intelligence methods in earth science, and have worked with [Will Chapman](https://scholar.google.com/citations?user=C1ox2CEAAAAJ) at Scripps to utilize convolutional neural networks (deep learning) for the improvement of satellite wind retrievals.
 
