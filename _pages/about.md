@@ -21,13 +21,12 @@ Specific problems I worked on at Scripps include:
 
 I am interested in the application of machine learning and artificial intelligence methods in earth science, and have worked with [Will Chapman](https://scholar.google.com/citations?user=C1ox2CEAAAAJ) at Scripps to utilize convolutional neural networks (deep learning) for the improvement of satellite wind retrievals.
 
+I received a Ph.D. in physical oceanography from the [University of Hawaii](http://www.soest.hawaii.edu/oceanography/index.html) in 2013, working on air-sea interaction; and a S.B. in mathematics from [MIT](http://web.mit.edu/) in 2006. 
+
 
 AMS Air-Sea Interaction Committee
 ------
 Since 2017, I have served on the American Meteorological Society Air-Sea Interaction Committee. As part of this responsibility, I am helping organize the Air-Sea Interaction Conference at the upcoming [AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/), which will be held in virtual format January 10-14, 2021. Hope to see you there!
-
-I received a Ph.D. in physical oceanography from the [University of Hawaii](http://www.soest.hawaii.edu/oceanography/index.html) in 2013, working on air-sea interaction; and a S.B. in mathematics from [MIT](http://web.mit.edu/) in 2006. 
-
 
 Other interests
 ------
