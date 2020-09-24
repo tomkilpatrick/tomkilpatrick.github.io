@@ -31,7 +31,7 @@ Since 2017, I have served on the American Meteorological Society Air-Sea Interac
 
 Other interests
 ------
-I love spending time outdoors (beaches, cycling, camping, etc.) and indulging my passion for college football. Feel free to reach out to me if you have any questions or just want to say hello (tomk at alum.mit.edu).
+I love spending time outdoors (beaches, hiking, etc.) and indulging my passion for college football. Feel free to reach out to me if you have any questions or just want to say hello (tomk at alum.mit.edu).
 
 
 
