@@ -12,6 +12,8 @@ author_profile: true
 
 {% include base_path %}
 
+Kilpatrick, T., Schneider, N., and Qiu, B. (2016). Atmospheric response to a midlatitude SST front: Along-front winds. <i>Journal of the Atmospheric Sciences</i>, <b>73</b>, 3489–3509. [https://doi.org/10.1175/JAS-D-15-0312.1](https://doi.org/10.1175/JAS-D-15-0312.1)
+
 Kilpatrick, T., and Xie, S.-P. (2015). ASCAT observations of downdrafts from mesoscale convective systems. <i>Geophysical Research Letters</i>, <b>42</b>, 1951–1958. [https://doi.org/10.1002/2015GL063025](https://doi.org/10.1002/2015GL063025)
 
 Kilpatrick, T., Schneider, N., and Qiu, B. (2014). Boundary layer convergence induced by strong winds across a midlatitude SST front. <i>Journal of Climate</i>, <b>27</b>, 1698–1718. [https://doi.org/10.1175/JCLI-D-13-00101.1](https://doi.org/10.1175/JCLI-D-13-00101.1)
