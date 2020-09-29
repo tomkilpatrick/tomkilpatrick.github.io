@@ -12,6 +12,10 @@ author_profile: true
 
 {% include base_path %}
 
+Kilpatrick T., S.-P. Xie, A. J. Miller, and N. Schneider, 2018: Satellite observations of enhanced chlorophyll variability in the Southern California Bight. Journal of Geophysical Research: Oceans, 123, 7550–7563, doi:10.1029/2018JC014248.
+
+Kilpatrick, T., Xie, S.-P. and Nasuno, T. (2017). Diurnal convection–wind coupling in the Bay of Bengal. <i>Journal of Geophysical Research: Atmospheres</i>, <b>122</b>, 9705–9720. [https://doi.org/10.1002/2017JD027271](https://doi.org/10.1002/2017JD027271)
+
 Kilpatrick, T., and Xie, S.-P. (2016). Circumventing rain-related errors in scatterometer wind observations. <i>Journal of Geophysical Research: Atmospheres</i>, <b>121</b>, 9422–9440. [https://doi.org/10.1002/2016JD025105](https://doi.org/10.1002/2016JD025105)
 
 Kilpatrick, T., Schneider, N., and Qiu, B. (2016). Atmospheric response to a midlatitude SST front: Along-front winds. <i>Journal of the Atmospheric Sciences</i>, <b>73</b>, 3489–3509. [https://doi.org/10.1175/JAS-D-15-0312.1](https://doi.org/10.1175/JAS-D-15-0312.1)
