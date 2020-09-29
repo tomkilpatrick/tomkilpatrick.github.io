@@ -12,6 +12,8 @@ author_profile: true
 
 {% include base_path %}
 
+Kilpatrick, T., and Xie, S.-P. (2016). Circumventing rain-related errors in scatterometer wind observations. <i>Journal of Geophysical Research: Atmospheres</i>, <b>121</b>, 9422–9440. [https://doi.org/10.1002/2016JD025105](https://doi.org/10.1002/2016JD025105)
+
 Kilpatrick, T., Schneider, N., and Qiu, B. (2016). Atmospheric response to a midlatitude SST front: Along-front winds. <i>Journal of the Atmospheric Sciences</i>, <b>73</b>, 3489–3509. [https://doi.org/10.1175/JAS-D-15-0312.1](https://doi.org/10.1175/JAS-D-15-0312.1)
 
 Kilpatrick, T., and Xie, S.-P. (2015). ASCAT observations of downdrafts from mesoscale convective systems. <i>Geophysical Research Letters</i>, <b>42</b>, 1951–1958. [https://doi.org/10.1002/2015GL063025](https://doi.org/10.1002/2015GL063025)
