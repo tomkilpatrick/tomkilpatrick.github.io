@@ -12,12 +12,10 @@ author_profile: true
 
 {% include base_path %}
 
-/* {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} */
-
+Kilpatrick, T., Schneider, N., and Di Lorenzo, E. (2011) Generation of low-frequency spiciness variability in the thermocline. Journal of Physical Oceanography, 41, 365-377. 
 JPO
 
 J. Climate
 
 JAS
+
