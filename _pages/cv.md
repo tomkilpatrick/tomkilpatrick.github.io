@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in oceanography, University of Hawaii, 2013 
+* M.S. in oceanography, University of Hawaii, 2009 
+* B.S. in mathematics, Massachusetts Institute of Technology, 2006 
+* Non-degree student,  University of Michigan, Ann Arbor, 2000-2001
+
+ 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2018-2020: Assistant project scientist 
+  * Scripps Institution of Oceanography, U.C. San Diego
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Shang-Ping Xie
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2013-2018: Postdoctoral scholar 
+  * Scripps Institution of Oceanography, U.C. San Diego
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Shang-Ping Xie
+  
+* 2006-2013: Graduate assistant
+  *
+  * Supervisor: Professor Niklas Schneider
   
 Skills
 ======
@@ -36,18 +43,8 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+    
 Teaching
 ======
   <ul>{% for post in site.teaching %}
