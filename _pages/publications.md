@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=Q5mUAH0AAAAJ) page.  
+See also my [Google Scholar](https://scholar.google.com/citations?user=Q5mUAH0AAAAJ) page.  
 
 Hutchings, N., Kilpatrick, T., and Long, D. (2020). Ultrahigh resolution scatterometer winds near Hawaii. <i>Remote Sensing</i>, <b>12</b>, 564. [https://doi.org/10.3390/rs12030564](https://doi.org/10.3390/rs12030564)
 
