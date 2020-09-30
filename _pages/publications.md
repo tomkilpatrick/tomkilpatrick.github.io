@@ -12,9 +12,8 @@ author_profile: true
 
 {% include base_path %}
 
-#Chapman W., T. Kilpatrick, S.-P. Xie, D. Gagne, and B. Cornuelle, in preparation: Hawaii lee wind reconstruction using deep learning for satellite ambiguity selection.
 
-Hutchings, N., Kilpatrick, T., and Long, D. (2020). Ultrahigh resolution scatterometer winds near Hawaii. <i>Remote Sensing</i>, <b>12</b>. [https://doi.org/10.3390/rs12030564](https://doi.org/10.3390/rs12030564)
+Hutchings, N., Kilpatrick, T., and Long, D. (2020). Ultrahigh resolution scatterometer winds near Hawaii. <i>Remote Sensing</i>, <b>12</b>, 564. [https://doi.org/10.3390/rs12030564](https://doi.org/10.3390/rs12030564)
 
 Kilpatrick, T., Xie, S.-P., Tokinaga, H., Long, D., and Hutchings, N. (2019). Systematic scatterometer wind errors near coastal mountains. <i>Earth and Space Science</i>, <b>6</b>, 1900–1914. [https://doi.org/10.1029/2019EA000757](https://doi.org/10.1029/2019EA000757)
 
