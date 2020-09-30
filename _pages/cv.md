@@ -31,7 +31,7 @@ Work experience
   * Supervisor: Professor Shang-Ping Xie
   
 * 2006-2013: Graduate assistant
-  *
+  * Blah blah blah
   * Supervisor: Professor Niklas Schneider
   
 Skills
