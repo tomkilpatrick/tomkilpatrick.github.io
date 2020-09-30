@@ -12,13 +12,13 @@ author_profile: true
 
 {% include base_path %}
 
-Chapman W., T. Kilpatrick, S.-P. Xie, D. Gagne, and B. Cornuelle, in preparation: Hawaii lee wind reconstruction using deep learning for satellite ambiguity selection.
+#Chapman W., T. Kilpatrick, S.-P. Xie, D. Gagne, and B. Cornuelle, in preparation: Hawaii lee wind reconstruction using deep learning for satellite ambiguity selection.
 
-Hutchings N., T. Kilpatrick, and D. Long, 2020: Ultrahigh resolution scatterometer winds near Hawaii. Remote Sensing, 12, doi:10.3390/rs12030564.
+Hutchings, N., Kilpatrick, T., and Long, D. (2020). Ultrahigh resolution scatterometer winds near Hawaii. <i>Remote Sensing</i>, <b>12</b>. [https://doi.org/10.3390/rs12030564](https://doi.org/10.3390/rs12030564)
 
 Kilpatrick, T., Xie, S.-P., Tokinaga, H., Long, D., and Hutchings, N. (2019). Systematic scatterometer wind errors near coastal mountains. <i>Earth and Space Science</i>, <b>6</b>, 1900–1914. [https://doi.org/10.1029/2019EA000757](https://doi.org/10.1029/2019EA000757)
 
-Kilpatrick T., Xie, S.-P., Miller, A. J., and Schneider, N. (2018). Satellite observations of enhanced chlorophyll variability in the Southern California Bight. <i>Journal of Geophysical Research: Oceans</i>, <b>123</b>, 7550–7563. [https://doi.org/10.1029/2018JC014248](https://doi.org/10.1029/2018JC014248)
+Kilpatrick, T., Xie, S.-P., Miller, A. J., and Schneider, N. (2018). Satellite observations of enhanced chlorophyll variability in the Southern California Bight. <i>Journal of Geophysical Research: Oceans</i>, <b>123</b>, 7550–7563. [https://doi.org/10.1029/2018JC014248](https://doi.org/10.1029/2018JC014248)
 
 Kilpatrick, T., Xie, S.-P. and Nasuno, T. (2017). Diurnal convection–wind coupling in the Bay of Bengal. <i>Journal of Geophysical Research: Atmospheres</i>, <b>122</b>, 9705–9720. [https://doi.org/10.1002/2017JD027271](https://doi.org/10.1002/2017JD027271)
 
