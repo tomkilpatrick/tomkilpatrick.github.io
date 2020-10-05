@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[pdf](files/Kilpatrick.pdf)
+
 Education
 ======
 * Ph.D., oceanography, University of Hawaii, 2013 
