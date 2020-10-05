@@ -33,7 +33,7 @@ Since 2017, I have served on the American Meteorological Society Air-Sea Interac
 
 At BOEM
 ------
-At the Bureau of Ocean Energy Management (BOEM), I am working in the Division of Environmental Sciences. We oversee scientific research on the outer continental shelf that helps to ensure offshore energy resources (oil, gas, wind, tidal, etc.) are utilized responsibly. I am just getting started at BOEM and will try to post some information about my projects soon.
+At the Bureau of Ocean Energy Management (BOEM), I am working in the Division of Environmental Sciences. We oversee scientific research on the outer continental shelf that helps to ensure offshore energy resources (oil, gas, wind, tidal, etc.) are utilized responsibly. My responsibilities include studies related to physical oceanography and coastal winds (e.g., air quality). 
 
 
 Other interests
