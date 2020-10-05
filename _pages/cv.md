@@ -20,19 +20,20 @@ Education
 
 Work experience
 ======
-* 2018-2020: Assistant project scientist 
-  * Scripps Institution of Oceanography, U.C. San Diego
+* 2018-2020: Assistant project scientist, Scripps Institution of Oceanography, UCSD
+  * Blah blah
   * Duties included: Tagging issues
-  * Supervisor: Professor Shang-Ping Xie
 
-* 2013-2018: Postdoctoral scholar 
+* 2013-2018: Postdoctoral scholar, Scripps Institution of Oceanography, UCSD
   * Scripps Institution of Oceanography, U.C. San Diego
   * Duties included: Merging pull requests
-  * Supervisor: Professor Shang-Ping Xie
+  * Supervisor: Professor [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/)
   
-* 2006-2013: Graduate assistant
-  * Blah blah blah
-  * Supervisor: Professor Niklas Schneider
+* 2006-2013: Graduate assistant, University of Hawaii,
+  * Researched atmosphere-ocean interaction around strong SST fronts 
+  * Reserached spiciness variability in the thermocline
+  * Teaching assistant for OCN 620, Introduction to Physical Oceanography
+  * Supervisor: Professor [Niklas Schneider](http://iprc.soest.hawaii.edu/people/schneider.php)
   
 Skills
 ======
