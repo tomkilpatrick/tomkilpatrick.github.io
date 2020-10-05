@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf](files/Kilpatrick.pdf)
+[pdf](base_path/files/Kilpatrick.pdf)
 
 Education
 ======
