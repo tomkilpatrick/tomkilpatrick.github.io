@@ -23,7 +23,7 @@ Education
 Work experience
 ======
 * 2020-: Oceanographer, Division of Environmental Sciences (DES), Bureau of Ocean Energy Management
-  * Help DES manage its science program on the outer continental shelf, including physical oceanography and air quality studies
+  * Help DES manage its science program for the outer continental shelf, including physical oceanography and air quality studies
 
 * 2018-2020: Assistant project scientist, Scripps Institution of Oceanography, UCSD
   * Researched atmosphere-ocean interactions with satellite data (SST, surface wind, etc.)
