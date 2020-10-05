@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in oceanography, University of Hawaii, 2013 
-* M.S. in oceanography, University of Hawaii, 2009 
-* B.S. in mathematics, Massachusetts Institute of Technology, 2006 
+* Ph.D., oceanography, University of Hawaii, 2013 
+* M.S., oceanography, University of Hawaii, 2009 
+* B.S., mathematics, Massachusetts Institute of Technology, 2006 
 * Non-degree student,  University of Michigan, Ann Arbor, 2000-2001
 
  
