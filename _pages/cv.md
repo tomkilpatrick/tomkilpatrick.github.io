@@ -23,16 +23,17 @@ Work experience
 * 2018-2020: Assistant project scientist, Scripps Institution of Oceanography, UCSD
   * Researched atmosphere-ocean interactions with satellite data (SST, surface wind, etc.)
   * Ran regional ocean (ROMS) and atmospheric (WRF) models to test hypotheses
-  * Applied deep learning for a statistical downscaling application
+  * Deep learning for statistical downscaling of winds in regions with strong orographic forcing
   * JGR cover feature for study <i>[Satellite observations of enhanced chlorophyll variability in the Southern California Bight](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/jgrc.22477)</i>
+  * Reviewed papers for JGR, J. Climate, JAS, etc.
 
 * 2013-2018: Postdoctoral scholar, Scripps Institution of Oceanography, UCSD
   * Scripps Institution of Oceanography, U.C. San Diego
-  * Duties included: Merging pull requests
+  * Studied rain-wind interactions with satellite scatterometer data, including land-sea breezes 
   * Supervisor: Professor [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/)
   
 * 2006-2013: Graduate assistant, University of Hawaii,
-  * Researched atmosphere-ocean interaction around strong SST fronts 
+  * Researched atmosphere-ocean interactions around strong SST fronts with the WRF model
   * Researched spiciness variability in the thermocline
   * Department Ka Malama Kai award for outstanding thesis/paper, 2009
   * Teaching assistant for OCN 620, Introduction to Physical Oceanography
