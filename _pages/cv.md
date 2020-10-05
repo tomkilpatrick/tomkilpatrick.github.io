@@ -25,7 +25,6 @@ Work experience
   * Ran regional ocean (ROMS) and atmospheric (WRF) models to test hypotheses
   * Deep learning for statistical downscaling of winds in regions with strong orographic forcing
   * JGR cover feature for study <i>[Satellite observations of enhanced chlorophyll variability in the Southern California Bight](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/jgrc.22477)</i>
-  * Reviewed papers for JGR, J. Climate, JAS, etc.
 
 * 2013-2018: Postdoctoral scholar, Scripps Institution of Oceanography, UCSD
   * Scripps Institution of Oceanography, U.C. San Diego
@@ -39,23 +38,10 @@ Work experience
   * Teaching assistant for OCN 620, Introduction to Physical Oceanography
   * Supervisor: Professor [Niklas Schneider](http://iprc.soest.hawaii.edu/people/schneider.php)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-
-    
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* American Meteorological Society Committee on Air-Sea Interaction, 2017-2021
+* Reviewer for JGR, J. Climate, JAS, etc.
+* Proposal reviewer for NASA physical oceanography program
