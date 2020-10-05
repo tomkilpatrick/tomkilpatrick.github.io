@@ -24,7 +24,7 @@ Work experience
   * Researched atmosphere-ocean interactions with satellite data (SST, surface wind, etc.)
   * Ran regional ocean (ROMS) and atmospheric (WRF) models to test hypotheses
   * Applied deep learning for a statistical downscaling application
-  * JGR cover feature for study <i>[Satellite observations of enhanced chlorophyll variability in the Southern California Bight](https://agupubs. onlinelibrary.wiley.com/doi/epdf/10.1002/jgrc.22477)</i>
+  * JGR cover feature for study <i>[Satellite observations of enhanced chlorophyll variability in the Southern California Bight](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/jgrc.22477)</i>
 
 * 2013-2018: Postdoctoral scholar, Scripps Institution of Oceanography, UCSD
   * Scripps Institution of Oceanography, U.C. San Diego
