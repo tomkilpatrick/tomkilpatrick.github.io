@@ -27,7 +27,6 @@ Work experience
   * JGR cover feature for study <i>[Satellite observations of enhanced chlorophyll variability in the Southern California Bight](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/jgrc.22477)</i>
 
 * 2013-2018: Postdoctoral scholar, Scripps Institution of Oceanography, UCSD
-  * Scripps Institution of Oceanography, U.C. San Diego
   * Studied rain-wind interactions with satellite scatterometer data, including land-sea breezes 
   * Supervisor: Professor [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/)
   
@@ -45,3 +44,4 @@ Service
 * American Meteorological Society Committee on Air-Sea Interaction, 2017-2021
 * Reviewer for JGR, J. Climate, JAS, etc.
 * Proposal reviewer for NASA physical oceanography program
+* Session organizer for Ocean Sciences Meeting, AMS Annual Meeting
