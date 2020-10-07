@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Feel free to [email me](mailto:tomk_at_alum.mit.edu) if you would like a pdf of any of these papers.
+Feel free to email me (tomk at alum.mit.edu) if you would like a pdf of any of these papers.
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=Q5mUAH0AAAAJ) and [Web of Science ResearcherID (Publons)](https://publons.com/researcher/2361265/thomas-j-kilpatrick/) pages.
 
