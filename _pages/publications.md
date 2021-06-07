@@ -10,9 +10,9 @@ author_profile: true
 
 Feel free to email me (tomk at alum.mit.edu) if you would like a pdf of any of these papers.
 
-See also my [Google Scholar](https://scholar.google.com/citations?user=Q5mUAH0AAAAJ) and [Web of Science ResearcherID (Publons)](https://publons.com/researcher/2361265/thomas-j-kilpatrick/) pages.
+See also my [Google Scholar](https://scholar.google.com/citations?user=Q5mUAH0AAAAJ) and [Web of Science ResearcherID (Publons)](https://publons.com/researcher/3939956/thomas-kilpatrick/) pages.
 
-Wei, X., Li, K., Kilpatrick, T., Wang, M., and Xie, S.-P. (2021). Large-scale conditions for the record-setting Southern California marine heatwave of August 2018. <i>Geophysical Research Letters</i>, <b>48</b>, e2020GL091803. [https:/doi.org/10.1029/2020GL091803](https:/doi.org/10.1029/2020GL091803)
+Wei, X., Li, K., Kilpatrick, T., Wang, M., and Xie, S.-P. (2021). Large-scale conditions for the record-setting Southern California marine heatwave of August 2018. <i>Geophysical Research Letters</i>, <b>48</b>, e2020GL091803. [https:/doi.org/10.1029/2020GL091803](https://doi.org/10.1029/2020GL091803)
 
 Hutchings, N., Kilpatrick, T., and Long, D. (2020). Ultrahigh resolution scatterometer winds near Hawaii. <i>Remote Sensing</i>, <b>12</b>, 564. [https://doi.org/10.3390/rs12030564](https://doi.org/10.3390/rs12030564)
 
