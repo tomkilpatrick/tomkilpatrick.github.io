@@ -26,14 +26,14 @@ I am interested in the application of machine learning and artificial intelligen
 I received a Ph.D. in physical oceanography from the [University of Hawaii](http://www.soest.hawaii.edu/oceanography/index.html) in 2013, working on air-sea interaction around SST fronts; and a S.B. in mathematics from [MIT](https://math.mit.edu/index.php) in 2006. 
 
 
-AMS Air-Sea Interaction Committee
-------
-From 2017--2021, I served on the American Meteorological Society Air-Sea Interaction Committee. As part of this responsibility, I helped organize the [Air-Sea Interaction Conference](https://annual.ametsoc.org/index.cfm/2021/program-events/conferences-and-symposia/22nd-conference-on-air-sea-interaction/) at the [2021 AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/). 
-
-
 At BOEM
 ------
 At the Bureau of Ocean Energy Management (BOEM), I work in the Office of Environmental Programs at headquarters. We manage scientific studies on the outer continental shelf that help to ensure offshore energy resources (oil, gas, wind, tidal, etc.) are utilized responsibly. My responsibilities include studies related to physical oceanography and coastal winds (e.g., air quality). 
+
+
+AMS Air-Sea Interaction Committee
+------
+From 2017--2021, I served on the American Meteorological Society Air-Sea Interaction Committee. As part of this responsibility, I helped organize the [Air-Sea Interaction Conference](https://annual.ametsoc.org/index.cfm/2021/program-events/conferences-and-symposia/22nd-conference-on-air-sea-interaction/) at the [2021 AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/). 
 
 
 Other interests
