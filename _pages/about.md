@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I recently started working as an oceanographer at the [Bureau of Ocean Energy Management (BOEM)](https://www.boem.gov) headquarters in Virginia, part of the [U.S. Department of the Interior](https://www.doi.gov). Prior to that I was a postdoc and project scientist at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu), U.C. San Diego.
+Hi! I am an ocean and atmospheric scientist at the [Bureau of Ocean Energy Management (BOEM)](https://www.boem.gov) headquarters in Virginia, part of the [U.S. Department of the Interior](https://www.doi.gov). Prior to that I was a postdoc and project scientist at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu), U.C. San Diego.
 
 At Scripps I studied regional-scale atmosphere-ocean interactions, which have a strong influence on the climate variability that is felt by communities, including the impacts of climate change. I was advised by Prof. [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/), with funding from the [NASA physical oceanography program](https://science.nasa.gov/earth-science/oceanography/physical-ocean). I worked heavily with satellite observations of oceanic variables such as [sea surface temperature](http://www.remss.com/measurements/sea-surface-temperature/), [sea level](https://sealevel.jpl.nasa.gov/missions/), and [ocean color](https://oceancolor.gsfc.nasa.gov/); and atmospheric variables such as [surface winds](https://winds.jpl.nasa.gov/missions/quikscat/), rainfall, and clouds. We supplemented satellite data where appropriate with in situ observations from buoys, ships, and gliders.
 
@@ -28,12 +28,12 @@ I received a Ph.D. in physical oceanography from the [University of Hawaii](http
 
 AMS Air-Sea Interaction Committee
 ------
-Since 2017, I have served on the American Meteorological Society Air-Sea Interaction Committee. As part of this responsibility, I am helping organize the [Air-Sea Interaction Conference](https://annual.ametsoc.org/index.cfm/2021/program-events/conferences-and-symposia/22nd-conference-on-air-sea-interaction/) at the upcoming [AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/), which will be held in virtual format January 10-14, 2021. Hope to see you there!
+From 2017--2021, I served on the American Meteorological Society Air-Sea Interaction Committee. As part of this responsibility, I helped organize the [Air-Sea Interaction Conference](https://annual.ametsoc.org/index.cfm/2021/program-events/conferences-and-symposia/22nd-conference-on-air-sea-interaction/) at the [2021 AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/). 
 
 
 At BOEM
 ------
-At the Bureau of Ocean Energy Management (BOEM), I am working in the Division of Environmental Sciences. We oversee scientific research on the outer continental shelf that helps to ensure offshore energy resources (oil, gas, wind, tidal, etc.) are utilized responsibly. My responsibilities include studies related to physical oceanography and coastal winds (e.g., air quality). 
+At the Bureau of Ocean Energy Management (BOEM), I work in the Office of Environmental Programs at headquarters. We manage scientific studies on the outer continental shelf that help to ensure offshore energy resources (oil, gas, wind, tidal, etc.) are utilized responsibly. My responsibilities include studies related to physical oceanography and coastal winds (e.g., air quality). 
 
 
 Other interests
