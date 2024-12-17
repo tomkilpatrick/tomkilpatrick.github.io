@@ -33,5 +33,5 @@ From 2017--2021, I served on the American Meteorological Society Air-Sea Interac
 
 Other interests
 ------
-Aside from my broader interests in the Blue Economy, I like spending time outdoors (beaches, hiking, etc.) and indulging my passion for college football. Feel free to reach out to me if you have any questions or just want to say hello (tomk at alum.mit.edu).
+I like spending time outdoors (beaches, hiking, etc.) and enjoy all levels of football. Feel free to reach out to me if you have any questions or just want to say hello (tomk at alum.mit.edu).
 
