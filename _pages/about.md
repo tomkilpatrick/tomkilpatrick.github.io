@@ -25,11 +25,11 @@ I received a Ph.D. in physical oceanography from the [University of Hawaii](http
 
 AMS Energy Committee
 ------
-Since 2023, I have served on the American Meteorological Society [Energy Committee](https://www.ametsoc.org/index.cfm/cwwce/committees/energy-committee/), where I have helped organize a number of offshore energy-related sessions at the AMS Annual Meetings. 
+Since 2023, I have served on the American Meteorological Society (AMS) [Energy Committee](https://www.ametsoc.org/index.cfm/cwwce/committees/energy-committee/), where I have helped organize a number of offshore energy-related sessions at the AMS Annual Meetings. 
 
 AMS Air-Sea Interaction Committee
 ------
-From 2017--2021, I served on the American Meteorological Society Air-Sea Interaction Committee. As part of this responsibility, I helped organize the [Air-Sea Interaction Conference](https://annual.ametsoc.org/index.cfm/2021/program-events/conferences-and-symposia/22nd-conference-on-air-sea-interaction/) at the [2021 AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/). 
+From 2017--2021, I served on the AMS Air-Sea Interaction Committee. As part of this responsibility, I helped organize the [Air-Sea Interaction Conference](https://annual.ametsoc.org/index.cfm/2021/program-events/conferences-and-symposia/22nd-conference-on-air-sea-interaction/) at the [2021 AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/). 
 
 
 Other interests
