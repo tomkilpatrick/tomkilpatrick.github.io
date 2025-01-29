@@ -34,5 +34,5 @@ From 2017--2021, I served on the AMS Air-Sea Interaction Committee. As part of t
 
 Other interests
 ------
-I like spending time outdoors with family; and watching football, from the youth flag football level, to UCLA (season ticket holder), and the NFL (Bolt Up!). Feel free to reach out to me if you have any questions or just want to say hello (tomk at alum.mit.edu).
+I like spending time outdoors with family; and football, from coaching at the youth flag football level, to UCLA (season ticket holder), and the NFL (Bolt Up!). Feel free to reach out to me if you have any questions or just want to say hello (tomk at alum.mit.edu).
 
